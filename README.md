@@ -1,3 +1,3 @@
-# TODO: Enter project name 
+# Text Adventure Game
 
-TODO: Add project summary
+# Text game that lets you explore different rooms, fight monsters and find treasure!!
